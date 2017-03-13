@@ -17,7 +17,8 @@
     "url": "https://github.com/turbo87/leaflet-sidebar.git"
   },
   "scripts": {
-    "test": "gulp lint"
+    "test": "gulp lint",
+    "build": "gulp sass && gulp zip"
   },
   "dependencies": {
   },

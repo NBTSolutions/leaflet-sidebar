@@ -129,7 +129,7 @@ $transition-duration: 0.5s;
         @include widths($width-lg);
     }
 
-    .close {
+    .sidebar-close {
         position: absolute;
         right: 20px;
         top: 20px;
